@@ -1,1 +1,3 @@
 git-lfs
+cmake
+build-essential

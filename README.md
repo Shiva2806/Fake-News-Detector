@@ -2,7 +2,7 @@
 
 An AI-powered web application built with a fine-tuned DistilBERT model to classify news articles as REAL or FAKE. This project demonstrates an end-to-end machine learning workflow, from data cleaning and model training to deployment as an interactive app using Streamlit.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fake-news-detector-kb8r6pdrcnaehaegbebefx.streamlit.app/)
 
 ## ✨ Features
 - **Interactive UI**: A clean and simple user interface built with Streamlit.

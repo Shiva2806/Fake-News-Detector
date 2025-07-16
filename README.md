@@ -65,5 +65,5 @@ To run this project on your own machine, follow these steps:
    ```
    The application should open in your web browser.
 
-##  acknowledgments
+##  Acknowledgments
 The training data for this model is primarily based on a public Kaggle dataset containing real and fake news. To enhance the model's robustness, this was augmented with a manually curated dataset of 1,000 additional articles (500 real and 500 fake).

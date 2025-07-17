@@ -3,4 +3,4 @@ torch
 transformers
 pandas
 sentencepiece
-google-generative-ai
+google-generativeai
